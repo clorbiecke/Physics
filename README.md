@@ -21,3 +21,5 @@ Child classes: Gravity(SingleForce), LennardJones(PairForce), HarmonicBonds(Bond
 Defines a ParticleEffect class for spawning particles.
 - A ParticleEffect object contains a deque which holds every particle the object spawns.
 - The object will update its particles inside its own update() method. 
+
+testing...
